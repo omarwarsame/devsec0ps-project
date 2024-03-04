@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="./public/assets/omar-warsame.png" alt="Logo" width="15%" height="15%">
-  <p align="center"><a href="https://devsom.com">DevSom</a></p>
+  <p align="center"><a href="https://devsom.co.uk">DevSom</a></p>
   
 </div>
 
