@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/omar-warsame.png" alt="Logo" width="50%" height="50%">
+  <img src="./public/assets/omar-warsame.png" alt="Logo" width="20%" height="20%">
   <p align="center">Home Page</p>
 </div>
 
