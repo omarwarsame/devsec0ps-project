@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="./public/assets/omar-warsame.png" alt="Logo" width="15%" height="15%">
-  <p align="center">Home Page <a href="https://www.w3schools.com">Visit W3Schools</a></p>
+  <p align="center"><a href="https://devsom.com">DevSom</a></p>
   
 </div>
 
